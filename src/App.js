@@ -1,16 +1,45 @@
-import React from 'react';
+import './App.css';
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import CareerPage from './Components/CareerPage';
+import Home from './Components/Home';
+import Jobs from './Components/Jobs';
+import JobDetail  from './Components/JobDetail';
 
 function App() {
+
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <CareerPage />,
+      children: [
+        {
+          index: true,
+          element: <Home />,
+        },
+        {
+          path: "Career",
+
+          children: [
+            {
+              index: true,
+              element: <Jobs />,
+            },
+            {
+              path: ":id",
+              element: <JobDetail />,
+            },
+          ],
+        },
+
+      ],
+      // editing content
+      //path:
+    },
+  ]);
+
   return (
-    <div style={{ textAlign: 'center' }}>
-      <header>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn React
-        </a>
-      </header>
+    <div className="App">
+      <RouterProvider router={router} />
     </div>
   );
 }

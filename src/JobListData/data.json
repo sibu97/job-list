@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "title":"SDE ||",
+        "subtitle":"Software Development Engineer ||",
+        "skills": ["Python,API,MongoDB","Dockers, Flutter","Mobile/Web Development"],
+        "experience":"Fresher",
+        "openings":"02",
+        "location":"Pune, Maharashtra",
+        "responsibilities":["Develop cutting-edge software solutions using your expertise in AWS, C++ Programming, Flutter, Java, Node.js, and ReactJS","Collaborate with cross-functional teams to design and implement software applications","Conduct thorough testing and debugging to ensure high-quality and seamless performance","Stay updated with the latest industry trends and bring new ideas to the table for continuous improvement","Participate in code reviews and provide constructive feedback to enhance code quality","Work closely with clients to understand their requirements and deliver customized solutions that meet their needs"]
+    },
+    {
+        "id":2,
+        "title":"RE - | (PERCEPTION)",
+        "subtitle":"Robotics Engineer |",
+        "skills": ["C++,ROS1/ROS2","SLAM, OpenCV","CUDA, Pytorch","TensorFlow, Navigation"],
+        "experience":"1+ year",
+        "openings":"05",
+        "location":"Pune, Maharashtra",
+          "responsibilities":["Program the automation bots according to the assigned project","Create a workflow chart of a client process well before the discovery phase","Record the workflow and update comments, on how to point to the workflow","Handle the error and proper alert notifications with regard to automation in and out of the framework","Perform code optimization and identifies potential issues and defects","Communicate with the automation product support teams on software-related issues, suggests in case of any improvements, and seek advice from other users in the product community","Develop automation scripts and automation/orchestration technologies (using BluePrism/UiPath/automation anywhere)"]
+    },
+     {
+        "id":3,
+        "title":"SCE ||",
+        "subtitle":"Supply Chain Engineer ||",
+        "location":"Pune, Maharashtra",
+        "skills": ["Lean Six Sigma","Supply chain management","Inventory","Jit"],
+        "experience":"4+ year",
+        "openings":"01",
+          "responsibilities":["Work on inventory management","Work on order processing and fulfillment","Work on logistics and shipping:","Work on supply chain management"," Work on quality control","Work on return and exchange management","Work on operational efficiency","Work on data analysis and reporting","Work on team collaboration","Work on compliance and risk management"]
+    },
+    {
+        "id":4,
+        "title":"RC ||",
+        "location":"Pune, Maharashtra",
+        "subtitle":"Recruitment Coordinator ||",
+        "skills": ["Communication Skill","Familiarity with Applicant Tracking Systems","resume databases"],
+        "experience":"2+ year",
+        "openings":"01",
+          "responsibilities":["Proven work experience as an IT Recruitment","Familiarity with Applicant Tracking Systems and resume databases","Experience with sourcing techniques","Understanding of referral programs","Solid verbal and written communication skills","Assist with all internal and external HR-related matters.","Participate in developing organizational guidelines and procedures.","Recommend strategies to motivate employees.","Assist with the recruitment process by identifying candidates, conducting reference checks, and issuing employment contracts."]
+    },
+     {
+        "id":5,
+        "title":"RC ||",
+        "location":"Pune, Maharashtra",
+        "subtitle":"Recruitment Coordinator ||",
+        "skills": ["Communication Skill","Familiarity with Applicant Tracking Systems","resume databases"],
+         "experience":"2+ year",
+        "openings":"01",
+          "responsibilities":["Proven work experience as an IT Recruitment","Familiarity with Applicant Tracking Systems and resume databases","Experience with sourcing techniques","Understanding of referral programs","Solid verbal and written communication skills","Assist with all internal and external HR-related matters.","Participate in developing organizational guidelines and procedures.","Recommend strategies to motivate employees.","Assist with the recruitment process by identifying candidates, conducting reference checks, and issuing employment contracts."]
+    },
+     {
+        "id":6,
+        "title":"RC ||",
+        "location":"Pune, Maharashtra",
+        "subtitle":"Recruitment Coordinator ||",
+        "skills": ["Communication Skill","Familiarity with Applicant Tracking Systems","resume databases"],
+         "experience":"2+ year",
+        "openings":"01",
+          "responsibilities":["Proven work experience as an IT Recruitment","Familiarity with Applicant Tracking Systems and resume databases","Experience with sourcing techniques","Understanding of referral programs","Solid verbal and written communication skills","Assist with all internal and external HR-related matters.","Participate in developing organizational guidelines and procedures.","Recommend strategies to motivate employees.","Assist with the recruitment process by identifying candidates, conducting reference checks, and issuing employment contracts."]
+    }
+    
+]

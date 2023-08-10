@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 10rem;
+    height: 3rem;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    background-color: rgb(12, 12, 12);
+    font-size: 1.5rem;
+    padding: 15px;
+    justify-content: space-between;
+}
+.link{
+    margin-right: 25px;
+    right: 0px;
+    text-decoration: none;
+    color: white;
+}
+
